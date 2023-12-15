@@ -1,6 +1,6 @@
 # Laravel Dockerized Development Environment
 
-This project is a Dockerized development environment for a Laravel PHP application. This project demonstrates how to set up a local development environment for a Laravel PHP application using Docker.
+This project is a Dockerized development environment for a Laravel PHP application. This project demonstrates how to set up a local development environment for a Laravel PHP application using Docker. Please note that the code for the app, including the JavaScript, JSON, HTML and CSS is not authored by the repository owner.
 
 ## Project Structure
 
